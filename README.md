@@ -1,4 +1,3 @@
-website
-=======
+# Audiostronomy.org
 
-Audiostronomy website
+The [Audiostronomy website](http://audiostronomy.org), operated using Jekyll.
